@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb72eed-01c6-4d03-82c3-5587f48c2864" name="Default" comment="Initial commit">
+      <change beforePath="" afterPath="$PROJECT_DIR$/components/resources/deadpool.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeRepeater.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeRepeater.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimatedControl.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimatedSwitch.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationCache.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationTransitionController.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTBlockCallback.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTCacheProvider.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTComposition.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTInterpolatorCallback.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTKeypath.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/Private/LOTValueCallback.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimatedControl.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimatedSwitch.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationTransitionController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTBlockCallback.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTCacheProvider.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTInterpolatorCallback.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueCallback.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/PublicHeaders/Lottie.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTCircleAnimator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTCircleAnimator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPathAnimator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPathAnimator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolygonAnimator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolygonAnimator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolystarAnimator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTPolystarAnimator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTRoundedRectAnimator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/AnimatorNodes/LOTRoundedRectAnimator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTArrayInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTArrayInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTColorInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTColorInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTNumberInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTNumberInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPathInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPathInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTPointInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTSizeInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTTransformInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/InterpolatorNodes/LOTValueInterpolator.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/LOTAnimatorNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/LOTAnimatorNode.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/LOTRenderNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/LOTRenderNode.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/ManipulatorNodes/LOTTrimPathNode.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/ManipulatorNodes/LOTTrimPathNode.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTFillRenderer.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTGradientFillRender.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTGradientFillRender.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRenderGroup.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRepeaterRenderer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTRepeaterRenderer.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTStrokeRenderer.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/lottie-ios/Classes/RenderSystem/RenderNodes/LOTStrokeRenderer.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-ios/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/.github/ISSUE_TEMPLATE/bug_report.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/node_modules/.bin/react-native" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lottie-react-native/node_modules/.bin/react-native.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/node_modules/yallist/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/node_modules/yallist/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/node_modules/yallist/iterator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/node_modules/yallist/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/node_modules/yallist/yallist.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/lru-cache/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/make-dir/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/makeerror/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/makeerror/lib/makeerror.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/makeerror/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/makeerror/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/makeerror/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-cache/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-cache/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-cache/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-cache/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-visit/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-visit/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-visit/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/map-visit/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/browser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/math-random/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mem/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mem/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mem/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/mem/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge-stream/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge-stream/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge-stream/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge-stream/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/merge.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/merge.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/merge/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-babel-register/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-babel-register/src/babel-register.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-babel-register/src/node-polyfills.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-babel7-plugin-react-transform/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-babel7-plugin-react-transform/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/node_modules/.bin/mkdirp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/node_modules/.bin/mkdirp.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/node_modules/.bin/rimraf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/node_modules/.bin/rimraf.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/Cache.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/Cache.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stableHash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stableHash.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/AutoCleanFileStore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/AutoCleanFileStore.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/FileStore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/FileStore.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/HttpError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/HttpError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/HttpStore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/HttpStore.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/NetworkError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/stores/NetworkError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/types.flow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-cache/src/types.flow.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/node_modules/.bin/metro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/node_modules/.bin/metro.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/configTypes.flow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/configTypes.flow.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/convertConfig.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/convertConfig.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/defaults/blacklist.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/defaults/defaults.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/defaults/defaults.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/defaults/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/defaults/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/loadConfig.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/loadConfig.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/oldConfig.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-config/src/oldConfig.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/blacklist.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/constants.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/crawlers/node.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/crawlers/watchman.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/get_mock_name.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/haste_fs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/lib/extract_requires.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/lib/get_platform_extension.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/lib/normalize_path_sep.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/lib/watchman_watcher.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/module_map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/types.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/build/worker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/node_modules/.bin/sane" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/node_modules/.bin/sane.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/node_modules/jest-haste-map/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/Logger.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/Logger.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/Terminal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/Terminal.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors/AmbiguousModuleResolutionError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors/AmbiguousModuleResolutionError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors/PackageResolutionError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/errors/PackageResolutionError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/formatBanner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-core/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-memory-fs/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-memory-fs/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-memory-fs/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/node_modules/.bin/uglifyjs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/node_modules/.bin/uglifyjs.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/src/minifier.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/src/minifier.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-minify-uglify/src/types.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/rn-babelrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/FailedToResolveNameError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/FailedToResolveNameError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/FailedToResolvePathError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/FailedToResolvePathError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/InvalidPackageError.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/InvalidPackageError.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/formatFileCandidates.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/formatFileCandidates.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/index.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/resolve.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/resolve.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/types.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-resolver/src/types.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/rn-babelrc.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/B64Builder.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/B64Builder.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/Generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/Generator.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/encode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/encode.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/source-map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro-source-map/src/source-map.js.flow" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/image-size" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/image-size.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/mkdirp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/mkdirp.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/parser" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/parser.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/rimraf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/.bin/rimraf.cmd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/ansi-styles/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/ansi-styles/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/ansi-styles/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/ansi-styles/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/chalk/license" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/chalk/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/metro/node_modules/chalk/readme.md" />
+      <change beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
+    </list>
+    <ignored path="reactNativeToLearn.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="reactNativeToLearn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#103#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reactNativeToLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactNativeToLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactNativeToLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactNativeToLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\084\Desktop\Test\reactNativeToLearn\components\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb72eed-01c6-4d03-82c3-5587f48c2864" name="Default" comment="" />
+      <created>1537449560722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537449560722</updated>
+      <workItem from="1537449701518" duration="2317000" />
+      <workItem from="1537452411897" duration="1124000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1537451640180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537451640180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1537453006448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537453006448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3441000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1932" height="1045" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/reactnativetolearn/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/reactnativetolearn/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/resources/deadpool.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#103#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>reactNativeToLearn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
