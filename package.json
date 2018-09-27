@@ -9,7 +9,10 @@
   "dependencies": {
     "lottie-react-native": "^2.5.8",
     "react": "16.5.0",
-    "react-native": "0.57.0"
+    "react-native": "0.57.0",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-snap-carousel": "^3.7.4",
+    "react-native-swiper": "^1.5.13"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
